@@ -1,0 +1,5 @@
+PS C:\Users\asus\OneDrive\Desktop\assignments\DSA 100 DAYS\DSA 100 DAYS\output> & .\'day35.exe'
+5
+10 20 30 40 50
+10 20 30 40 50 
+PS C:\Users\asus\OneDrive\Desktop\assignments\DSA 100 DAYS\DSA 100 DAYS\output> 
